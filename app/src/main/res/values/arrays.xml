@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="job_title">
+        <item>Select job title</item>
+        <item>Computer Engineer</item>
+        <item>Mechnical Engineer</item>
+        <item>Civil Engineer</item>
+        <item>Electrical Engineer</item>
+        <item>Chemical Engineer</item>
+        <item>Electronics Engineer</item>
+    </string-array>
+    <integer-array name="jon_id">
+        <item>0</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </integer-array>
+</resources>

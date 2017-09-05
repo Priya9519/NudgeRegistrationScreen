@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NudgeRegistrationScreen</string>
+    <string name="welcome_message">Welcome to Nudge \nPlease register to use the Nudge service</string>
+</resources>
